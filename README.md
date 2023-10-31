@@ -46,3 +46,14 @@ Mengembangkan model yang dapat memprediksi harga mobil bekas secara otomatis ber
 - Semakin baik kondisi mobil (rating diatas 3) maka harga belinya juga semakin tinggi sementara unit dengan kondisi buruk (rating dibawah 3) banyak diminati karena harga lebih murah.
 - Mobil keluaran tahun 1980an memiliki nilai jual yang lebih tinggi daripada mobil tahun 2000an, kemungkinan karena termasuk dalam kategori mobil antik.
 - Harga jual mobil dipengaruhi oleh beberapa faktor, termasuk odometer, kondisi mobil (nilai rating), dan tahun keluaran.
+
+## **Preprocessing Data Process**
+
+Pada data dilakukan beberapa proses Preprocessing sebagai berikut:
+
+- Droping Irrelevant Colomn
+- Handling Missing Value
+- Handling Outlier
+- Feature transformation
+- Feature encoding with One Hot Encoding
+- Feature Engineering
